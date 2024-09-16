@@ -21,7 +21,7 @@ export default function Home() {
                 <LeftComponent />
             </div>
             <div className={styles.right}>
-              <h1 className={styles.h1}>Top Albums</h1>
+              <h1 className={styles.h1}>Pop Star Details</h1>
                 <RightComponent />
             </div>
             </div>

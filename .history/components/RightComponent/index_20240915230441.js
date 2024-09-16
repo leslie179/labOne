@@ -11,15 +11,15 @@ export default function RightComponent() {
     const categories = [
         { 
             title: 'Camp (2011)', 
-            content: '"Bonfire" \n"Heartbeat" \n"Fire Fly"' 
+            content: '"Bonfire" \n"Heartbeat" \n"LoveAwaken, My !"' 
         },
         { 
-            title: 'Because the Internet (2013)', 
-            content: '"3005"\n "Sweatpantss"\n "Telegraph Ave."' 
+            title: 'Hit Singles', 
+            content: '"3005"\n "Redbone"\n "This Is America" which won Grammys for its cultural impact.' 
         },
         { 
-            title: 'Awaken, My Love!(2016)', 
-            content: '"Redbone"\n "Me and Your Mama"\n "Terrified"' 
+            title: 'Musical Style & Influences', 
+            content: 'Blend of hip hop, soul, funk, and rock, drawing influence from Prince, OutKast, and more.' 
         }
     ];
 

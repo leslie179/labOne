@@ -19,7 +19,7 @@ export default function RightComponent() {
         },
         { 
             title: 'Awaken, My Love!(2016)', 
-            content: '"Redbone"\n "Me and Your Mama"\n "Terrified"' 
+            content: 'Blend of hip hop, soul, funk, and rock, drawing influence from Prince, OutKast, and more.' 
         }
     ];
 
