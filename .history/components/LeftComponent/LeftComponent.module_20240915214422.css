@@ -1,0 +1,12 @@
+.left {
+    width: 50%; 
+    background-color: lightgray; 
+    padding: 20px;
+    box-sizing: border-box;
+    height: 100vh; 
+    float: left;
+}
+
+.image{
+    width: 230%
+}

@@ -1,0 +1,8 @@
+.right {
+    width: 50%; /* Adjust width as necessary */
+    background-color: lightblue; /* Add your preferred color */
+    padding: 20px;
+    box-sizing: border-box;
+    height: 100vh; /* Full viewport height */
+    float: right;
+}

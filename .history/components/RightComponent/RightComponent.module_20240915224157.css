@@ -1,0 +1,31 @@
+.right {
+    width: 50%; 
+    padding: 20px;
+    
+    box-sizing: border-box;
+    height: 100vh; 
+    float: right;
+}
+
+
+.item {
+    border-bottom: 2.5px solid lightblue;
+    margin-bottom: 10px;
+}
+
+.title {
+    cursor: pointer;
+    padding: 10px;
+    background-color: #eeccf4;
+    color: aquamarine;
+}
+
+.content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+}
+
+.show {
+    max-height: 100px; 
+}
