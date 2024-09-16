@@ -1,7 +1,1 @@
-# Class 3
-
-## Description
-Examples using
--useEffect
--useState
--setIntervalles
+# Lab one
